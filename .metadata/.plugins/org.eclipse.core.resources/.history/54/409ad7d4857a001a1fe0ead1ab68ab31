@@ -1,0 +1,5 @@
+package com.example.veltiapi.model;
+
+public class Categoria {
+
+}

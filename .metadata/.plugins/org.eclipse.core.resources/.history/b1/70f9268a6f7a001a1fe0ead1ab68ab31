@@ -1,0 +1,7 @@
+spring.jpa.database=MYSQL
+spring.datasource.url=jdbc:mysql://localhost/veltimysql?createDatabaseIfNotExist=true&useSSL=false
+spring.datasource.username = root
+spring.datasource.password = veltimysql
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+spring.jpa.show-sql=true

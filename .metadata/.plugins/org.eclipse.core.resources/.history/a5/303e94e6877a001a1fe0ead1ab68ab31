@@ -1,0 +1,5 @@
+package com.example.veltiapi.resource;
+
+public class CategoriaResource {
+
+}
